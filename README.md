@@ -12,7 +12,7 @@
 
 ### 🎯 O Desafio: Atualização em um Ambiente Legado e Não Documentado
 
-Um dos projetos mais desafiadores e gratificantes que realizei envolveu a migração e atualização do Redmine, um sistema de gerenciamento de projetos crucial para uma *food warehouse* de médio porte. O ambiente de produção era **legado**, **não documentado** e executado em um servidor **CentOS 7**, tornando a tarefa extremamente complexa e delicada. O sistema em uso era uma versão antiga do Redmine, com dependências desatualizadas, incluindo **Ruby** e **PostgreSQL**, exigindo um planejamento meticuloso e uma execução impecável.
+Um dos projetos mais desafiadores e gratificantes que realizei envolveu a migração e atualização do Redmine, um sistema de gerenciamento de projetos crucial para uma *SoftwareHouse de grande porte na cidade de Maringá*. O ambiente de produção era **legado**, **não documentado** e executado em um servidor **CentOS 7**, tornando a tarefa extremamente complexa e delicada. O sistema em uso era uma versão antiga do Redmine, com dependências desatualizadas, incluindo **Ruby** e **PostgreSQL**, exigindo um planejamento meticuloso e uma execução impecável.
 
 Este projeto demandava uma compreensão profunda de infraestrutura, práticas de DevOps e a capacidade de resolver problemas de forma eficaz e rápida. Cada etapa foi planejada com precisão, demonstrando minha habilidade em lidar com ambientes complexos e de alta criticidade.
 
